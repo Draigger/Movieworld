@@ -6,7 +6,7 @@
 
 ![Filmpire Landing](./src/assets/images/thumbnail.png)
 
-# Features ✨
+# Featuressss ✨
 
 - Search for movies (text, voice)
 - View upcoming / trending movies
