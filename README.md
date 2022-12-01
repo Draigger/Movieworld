@@ -1,20 +1,18 @@
 
 <div align='center'>
 
-  #  🍿 Filmpire 🍿
+  #  🍿 MINI PROJECT 🍿
 </div>
 
 ![Filmpire Landing](./src/assets/images/thumbnail.png)
 
-# Featuressss ✨
+# Features ✨
 
 - Search for movies (text, voice)
 - View upcoming / trending movies
 - View movies from a category
 - View movie information
 
-
-Read more [here](https://ivuschua.com/projects/filmpire).
 
 # Tech Stack 💻
 
@@ -26,6 +24,6 @@ Read more [here](https://ivuschua.com/projects/filmpire).
 
 <div align='center'>
 
-### Click [here](https://filmpire.ivuschua.com/) to visit the live demo website.
+### Click [here](https://filmpire-tmdb.netlify.app/) to visit the live demo website.
 </div>
 
